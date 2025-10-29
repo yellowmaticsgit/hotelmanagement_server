@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://hotelmanagement-server-z8v0.onrender.com/api';
 
 // Test data
 const testUser = {
